@@ -7,7 +7,7 @@ public class Demo {
 		System.out.println("This line is the new addition to the code");
 		System.out.println("Now will push this updated code to github");
 		
-		System.out.println("Architect making changes now in develop branch");
+		System.out.println("Architect has made changes now in develop branch");
 	}
 
 }
